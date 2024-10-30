@@ -1,0 +1,6 @@
+@SecondConsumerApi_HostAddress = http://localhost:5094
+
+GET {{SecondConsumerApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

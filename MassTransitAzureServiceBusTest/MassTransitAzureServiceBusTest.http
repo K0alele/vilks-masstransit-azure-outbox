@@ -1,0 +1,6 @@
+@MassTransitAzureServiceBusTest_HostAddress = http://localhost:5243
+
+GET {{MassTransitAzureServiceBusTest_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
